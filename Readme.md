@@ -116,9 +116,18 @@ What I worked On:
 
  ## Video Walkthrough
 
-<div>
+ <div>
+    <a href="https://www.loom.com/share/4228f6a542bd4bdda4fbfa4f8f1769c0">
+      <p>Milestone # 1 - HackMD - 15 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/4228f6a542bd4bdda4fbfa4f8f1769c0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4228f6a542bd4bdda4fbfa4f8f1769c0-with-play.gif">
+    </a>
+  </div>
+
+  <div>
     <a href="https://www.loom.com/share/bee622aa9f6041b2871e810b53d9fa65">
-      <p>Overview: Unit 9 - IOS101 | Intro to iOS Development | CodePath Courses - 23 April 2024 - Watch Video</p>
+      <p>Milestone # 2 - 23 April 2024 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/bee622aa9f6041b2871e810b53d9fa65">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bee622aa9f6041b2871e810b53d9fa65-with-play.gif">
