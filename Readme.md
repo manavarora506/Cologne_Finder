@@ -100,21 +100,27 @@ Consumers in the market for a new cologne can find a scent they like within thei
 
 The following **required** functionality is completed:
 
-- [ ] As a user, I can search for a cologne
-- [ ] As a user, I can get the cologne name, price, mood, brand 
-- [ ] As a user, I can enter in a budget and find colognes that match my budget
-- [ ] As a user, I can select a mood from a list of moods and find colognes that match my budget.
+- [X] As a user, I can search for a cologne
+- [X] As a user, I can get the cologne name, price, mood, brand 
+- [X] As a user, I can enter in a budget and find colognes that match my budget
+- [X] As a user, I can select a mood from a list of moods and find colognes that match my budget.
+
+The following additional features are implemented:
+
+- [X] As a user, I can save a cologne
+- [X] As a user, I can view the colognes I've saved in my saved tab
 
 What I worked On:
  - Basic UI implementation
+ - Added logic and enhanced UI
 
  ## Video Walkthrough
 
- <div>
-    <a href="https://www.loom.com/share/4228f6a542bd4bdda4fbfa4f8f1769c0">
-      <p>Milestone # 1 - HackMD - 15 April 2024 - Watch Video</p>
+<div>
+    <a href="https://www.loom.com/share/bee622aa9f6041b2871e810b53d9fa65">
+      <p>Overview: Unit 9 - IOS101 | Intro to iOS Development | CodePath Courses - 23 April 2024 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/4228f6a542bd4bdda4fbfa4f8f1769c0">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4228f6a542bd4bdda4fbfa4f8f1769c0-with-play.gif">
+    <a href="https://www.loom.com/share/bee622aa9f6041b2871e810b53d9fa65">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bee622aa9f6041b2871e810b53d9fa65-with-play.gif">
     </a>
   </div>
