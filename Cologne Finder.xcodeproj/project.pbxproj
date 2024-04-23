@@ -13,6 +13,12 @@
 		4C68C4082BCCD8C70080A25F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4C68C4072BCCD8C70080A25F /* Base */; };
 		4C68C40A2BCCD8C80080A25F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C68C4092BCCD8C80080A25F /* Assets.xcassets */; };
 		4C68C40D2BCCD8C80080A25F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 4C68C40C2BCCD8C80080A25F /* Base */; };
+		4C68C4152BD0BB5A0080A25F /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C4142BD0BB5A0080A25F /* SearchViewController.swift */; };
+		4C68C4172BD0BBD50080A25F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C4162BD0BBD50080A25F /* DetailViewController.swift */; };
+		4C68C4192BD0BC020080A25F /* SavedColognesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C4182BD0BC020080A25F /* SavedColognesViewController.swift */; };
+		4C68C41B2BD0BC290080A25F /* FilterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C41A2BD0BC290080A25F /* FilterViewController.swift */; };
+		4C68C41D2BD0BC460080A25F /* MatchesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C41C2BD0BC460080A25F /* MatchesViewController.swift */; };
+		4C68C41F2BD0BDB70080A25F /* CologneData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C68C41E2BD0BDB70080A25F /* CologneData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		4C68C4092BCCD8C80080A25F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C68C40C2BCCD8C80080A25F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C68C40E2BCCD8C80080A25F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C68C4142BD0BB5A0080A25F /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		4C68C4162BD0BBD50080A25F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		4C68C4182BD0BC020080A25F /* SavedColognesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedColognesViewController.swift; sourceTree = "<group>"; };
+		4C68C41A2BD0BC290080A25F /* FilterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterViewController.swift; sourceTree = "<group>"; };
+		4C68C41C2BD0BC460080A25F /* MatchesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesViewController.swift; sourceTree = "<group>"; };
+		4C68C41E2BD0BDB70080A25F /* CologneData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CologneData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,12 @@
 				4C68C4022BCCD8C70080A25F /* SceneDelegate.swift */,
 				4C68C4042BCCD8C70080A25F /* ViewController.swift */,
 				4C68C4062BCCD8C70080A25F /* Main.storyboard */,
+				4C68C41A2BD0BC290080A25F /* FilterViewController.swift */,
+				4C68C41C2BD0BC460080A25F /* MatchesViewController.swift */,
+				4C68C4182BD0BC020080A25F /* SavedColognesViewController.swift */,
+				4C68C4162BD0BBD50080A25F /* DetailViewController.swift */,
+				4C68C4142BD0BB5A0080A25F /* SearchViewController.swift */,
+				4C68C41E2BD0BDB70080A25F /* CologneData.swift */,
 				4C68C4092BCCD8C80080A25F /* Assets.xcassets */,
 				4C68C40B2BCCD8C80080A25F /* LaunchScreen.storyboard */,
 				4C68C40E2BCCD8C80080A25F /* Info.plist */,
@@ -138,8 +156,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C68C41F2BD0BDB70080A25F /* CologneData.swift in Sources */,
+				4C68C41B2BD0BC290080A25F /* FilterViewController.swift in Sources */,
 				4C68C4052BCCD8C70080A25F /* ViewController.swift in Sources */,
+				4C68C41D2BD0BC460080A25F /* MatchesViewController.swift in Sources */,
 				4C68C4012BCCD8C70080A25F /* AppDelegate.swift in Sources */,
+				4C68C4192BD0BC020080A25F /* SavedColognesViewController.swift in Sources */,
+				4C68C4172BD0BBD50080A25F /* DetailViewController.swift in Sources */,
+				4C68C4152BD0BB5A0080A25F /* SearchViewController.swift in Sources */,
 				4C68C4032BCCD8C70080A25F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
