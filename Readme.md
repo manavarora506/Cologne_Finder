@@ -113,6 +113,7 @@ The following additional features are implemented:
 What I worked On:
  - Basic UI implementation
  - Added logic and enhanced UI
+ - Added a tooltip button so user can check what the app does
 
  ## Video Walkthrough
 
@@ -131,5 +132,14 @@ What I worked On:
     </a>
     <a href="https://www.loom.com/share/bee622aa9f6041b2871e810b53d9fa65">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bee622aa9f6041b2871e810b53d9fa65-with-play.gif">
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.loom.com/share/40229307c5b2426187dde36950c9c17a">
+      <p>Milestone # 3 - 1 May 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/40229307c5b2426187dde36950c9c17a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/40229307c5b2426187dde36950c9c17a-with-play.gif">
     </a>
   </div>
