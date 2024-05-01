@@ -43,11 +43,18 @@ class DetailViewController: UIViewController {
         applyBorder(to: brandLabel)
         applyBorder(to: priceLabel)
         applyBorder(to: moodLabel)
+//        applyBorder(to: cologneInfoStack) // Apply border to the stack view
         saveButton.layer.cornerRadius = 8
         saveButton.layer.borderWidth = 1
         saveButton.layer.borderColor = UIColor.systemBlue.cgColor
         saveButton.setTitleColor(.systemBlue, for: .normal)
     }
+    func applyBorder(to view: UIView) {
+            view.layer.borderWidth = 1.0
+            view.layer.cornerRadius = 8.0
+            view.layer.borderColor = UIColor.lightGray.cgColor
+        }
+    
     func applyBorder(to label: UILabel) {
             label.layer.borderWidth = 1.0
             label.layer.cornerRadius = 8.0
@@ -118,6 +125,7 @@ class DetailViewController: UIViewController {
                         // Update UI and show confirmation alert
                         saveButton.setTitle("Unsave", for: .normal)
                         saveButton.setTitleColor(.systemRed, for: .normal) // Set button color to red
+                        
                         showAlert(withTitle: "Saved", message: "Cologne details saved successfully!")
                     }
                 }
